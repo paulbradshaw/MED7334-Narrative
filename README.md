@@ -39,8 +39,8 @@ By the end of this week you should be able to describe and execute various techn
 * Workshop & reading: see Moodle
 * Task: Critical review of structure in shortform (social media) and longform data stories
 * Additional reading: 
- * [Adrian Holovaty (2006): A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
- * [Martin Belam (2009): The tyranny of chronology](http://www.currybet.net/download/pdf/belam_tyranny_of_chronology.pdf)
+  * [Adrian Holovaty (2006): A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
+  * [Martin Belam (2009): The tyranny of chronology](http://www.currybet.net/download/pdf/belam_tyranny_of_chronology.pdf)
  
 
 ## Week 3: Sound stories
