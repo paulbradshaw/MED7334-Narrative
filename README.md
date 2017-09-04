@@ -37,7 +37,11 @@ By the end of this week you should be able to identify narrative elements in pot
 By the end of this week you should be able to describe and execute various techniques for telling stories in shortform media (e.g. social media updates), longform formats, and identify structure in genre forms such as the inverted pyramid.
 
 * Workshop & reading: see Moodle
-* Task: Critical review of structure in shortform (social media) and longform
+* Task: Critical review of structure in shortform (social media) and longform data stories
+* Additional reading: 
+ * [Adrian Holovaty (2006): A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
+ * [Martin Belam (2009): The tyranny of chronology](http://www.currybet.net/download/pdf/belam_tyranny_of_chronology.pdf)
+ 
 
 ## Week 3: Sound stories
 
@@ -91,7 +95,7 @@ By the end of this week you should be able to identify the role of sequences and
 By the end of this week you should be able to identify how 'transmedia' narratives operate across platforms, and the role of curation, selection and editing in narrative. You should also be able to execute your own curation-based narrative, and begin to plan your transmedia project.
 
 * Workshop & reading: see Moodle
-* Planning a story across platforms (assignment element 2)
+* Planning a data story across platforms (assignment element 2)
 
 ## Week 10: Ergodic narrative and user agency
 
@@ -108,7 +112,7 @@ By the end of this week you should be able to explain and engage with considerat
 By the end of this week you should be able to plan multi-story narratives such as programmes, podcasts, publications and website UX, and explain the considerations and critical issues involved.
 
 * Workshop & reading: see Moodle
-* Task: Review and revised production of multiplatform element
+* Task: Review and revised production of multiplatform data story
 * Suggested additional reading: 
   * [6 storytelling principles to improve your UX](https://uxdesign.cc/6-storytelling-principles-to-improve-your-ux-737f0fc34261)
   * [Media design method](https://www.journals.uio.no/index.php/TJMI/article/view/702)
