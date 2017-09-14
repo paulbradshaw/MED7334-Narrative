@@ -90,14 +90,7 @@ By the end of this week you should be able to identify the role of sequences and
 * Workshop & reading: see Moodle
 * Task: Storyboard data story for Snapchat, Instagram or Facebook Stories, Twitter Moments, or other sequence-based format
 
-## Week 9: Transmedia and multimedia: curation and the cut. Whose voice gets heard?
-
-By the end of this week you should be able to identify how 'transmedia' narratives operate across platforms, and the role of curation, selection and editing in narrative. You should also be able to execute your own curation-based narrative, and begin to plan your transmedia project.
-
-* Workshop & reading: see Moodle
-* Planning a data story across platforms (assignment element 2)
-
-## Week 10: Ergodic narrative and user agency
+## Week 9: Ergodic narrative and user agency
 
 By the end of this week you should be able to explain and engage with considerations when introducing interactivity into a narrative - including the role of hypertext, games, place and interactive and social storytelling - and plan your own interactive story.
 
@@ -106,6 +99,13 @@ By the end of this week you should be able to explain and engage with considerat
 * Suggested additional reading: 
   * [An Illusion of Interactivity: The paternalistic side of data journalism](http://www.tandfonline.com/doi/full/10.1080/17512786.2017.1299032)
   * [Interactive Infographics and News Values](http://www.tandfonline.com/doi/full/10.1080/21670811.2013.841368)
+
+## Week 10: Transmedia and multimedia: curation and the cut. Whose voice gets heard?
+
+By the end of this week you should be able to identify how 'transmedia' narratives operate across platforms, and the role of curation, selection and editing in narrative. You should also be able to execute your own curation-based narrative, and begin to plan your transmedia project.
+
+* Workshop & reading: see Moodle
+* Planning a data story across platforms (assignment element 2)
 
 ## Week 11:  “Suspense and surprise” - audiences and journeys
 
