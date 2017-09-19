@@ -99,6 +99,7 @@ By the end of this week you should be able to explain and engage with considerat
 * Suggested additional reading: 
   * [An Illusion of Interactivity: The paternalistic side of data journalism](http://www.tandfonline.com/doi/full/10.1080/17512786.2017.1299032)
   * [Interactive Infographics and News Values](http://www.tandfonline.com/doi/full/10.1080/21670811.2013.841368)
+  * Lev Manovich: [Database as a Symbolic Form](http://www.mfj-online.org/journalPages/MFJ34/Manovich_Database_FrameSet.html)
 
 ## Week 10: Transmedia and multimedia: curation and the cut. Whose voice gets heard?
 
