@@ -32,7 +32,7 @@ By the end of this week you should be able to identify narrative elements in pot
 * Workshop & reading: see Moodle
 * Task: Critical review of news structure in data stories
 
-## Week 2: Structure: shortform, longform and other forms
+## Week 2: Structure
 
 By the end of this week you should be able to describe and execute various techniques for telling stories in shortform media (e.g. social media updates), longform formats, and identify structure in genre forms such as the inverted pyramid.
 
@@ -51,13 +51,25 @@ By the end of this week you should be identify techniques used in audio-based na
 * Task: Critical review of structure in audio data journalim
 * Additional reading: [Data journalism on radio, audio and podcasts](https://onlinejournalismblog.com/2017/07/06/data-journalism-on-radio-audio-and-podcasts/)
 
-## Week 4: Genre and audiovisual stories
+## Interactivity (ergodic storytelling)
+
+By the end of this week you should be able to explain and engage with considerations when introducing interactivity into a narrative - including the role of hypertext, games, place and interactive and social storytelling - and plan your own interactive story.
 
 * Workshop & reading: see Moodle
-* Task: Critical review of structure in video data stories
-* Additional reading: [Data journalism in broadcast news and video: 27+ examples to inspire and educate](https://onlinejournalismblog.com/2017/06/26/data-journalism-in-broadcast-news-video/)
+* Task: Experimenting with interactivity
+* Suggested additional reading: 
+  * [An Illusion of Interactivity: The paternalistic side of data journalism](http://www.tandfonline.com/doi/full/10.1080/17512786.2017.1299032)
+  * [Interactive Infographics and News Values](http://www.tandfonline.com/doi/full/10.1080/21670811.2013.841368)
+  * Lev Manovich: [Database as a Symbolic Form](http://www.mfj-online.org/journalPages/MFJ34/Manovich_Database_FrameSet.html)
 
-## Week 5: Overview, zoom then filter: composing a visual narrative
+## Editing and sequence
+
+By the end of this week you should be able to identify the role of sequences and editing in forming narratives, and use those techniques to plan and create sequences in a range of media platforms.
+
+* Workshop & reading: see Moodle
+* Task: Storyboard data story for Snapchat, Instagram or Facebook Stories, Twitter Moments, or other sequence-based format
+
+## Overview, zoom then filter: composing a visual narrative
 
 By the end of this week you should be able to identify techniques used in visual storytelling, and execute your own visual narrative.
 
@@ -72,52 +84,43 @@ By the end of this week you should be able to identify techniques used in visual
   * [Seeing Data Project](http://seeingdata.org/)
   * [More research](https://pinboard.in/u:paulbradshaw/t:vis+research)
 
-## Week 6: Reading Week
+## Week 7: Reading Week
 
 During this week you should be consolidating your learning so far, developing your skills on one or more editorial project, reviewing examples of data-driven storytelling, and continuing to read widely around the subject.
 
-## Week 7: Planning a narrative: interviews
+## Planning a narrative: interviews
 
 By the end of this week you should be able to outline different interviewing techniques, and the narrative and ethical considerations informing those, and plan and execute your own interview.
 
 * Workshop & reading: see Moodle
 * Task: Critical review of use of interviews in data journalism. Conduct and edit an audio interview.
 
-## Week 8: Editing and sequence
-
-By the end of this week you should be able to identify the role of sequences and editing in forming narratives, and use those techniques to plan and create sequences in a range of media platforms.
+## Video
 
 * Workshop & reading: see Moodle
-* Task: Storyboard data story for Snapchat, Instagram or Facebook Stories, Twitter Moments, or other sequence-based format
+* Task: Critical review of structure in video data stories
+* Additional reading: [Data journalism in broadcast news and video: 27+ examples to inspire and educate](https://onlinejournalismblog.com/2017/06/26/data-journalism-in-broadcast-news-video/)
 
-## Week 9: Ergodic narrative and user agency
-
-By the end of this week you should be able to explain and engage with considerations when introducing interactivity into a narrative - including the role of hypertext, games, place and interactive and social storytelling - and plan your own interactive story.
-
-* Workshop & reading: see Moodle
-* Task: Experimenting with interactivity
-* Suggested additional reading: 
-  * [An Illusion of Interactivity: The paternalistic side of data journalism](http://www.tandfonline.com/doi/full/10.1080/17512786.2017.1299032)
-  * [Interactive Infographics and News Values](http://www.tandfonline.com/doi/full/10.1080/21670811.2013.841368)
-  * Lev Manovich: [Database as a Symbolic Form](http://www.mfj-online.org/journalPages/MFJ34/Manovich_Database_FrameSet.html)
-
-## Week 10: Transmedia and multimedia: curation and the cut. Whose voice gets heard?
-
-By the end of this week you should be able to identify how 'transmedia' narratives operate across platforms, and the role of curation, selection and editing in narrative. You should also be able to execute your own curation-based narrative, and begin to plan your transmedia project.
-
-* Workshop & reading: see Moodle
-* Planning a data story across platforms (assignment element 2)
-
-## Week 11:  “Suspense and surprise” - audiences and journeys
+## Transmedia and longform
 
 By the end of this week you should be able to plan multi-story narratives such as programmes, podcasts, publications and website UX, and explain the considerations and critical issues involved.
 
+You should also be able to identify how 'transmedia' narratives operate across platforms, and the role of curation, selection and editing in narrative. You should also be able to execute your own curation-based narrative, and begin to plan your transmedia project.
+
 * Workshop & reading: see Moodle
-* Task: Review and revised production of multiplatform data story
+* Planning a data story across platforms (assignment element 2)
 * Suggested additional reading: 
   * [6 storytelling principles to improve your UX](https://uxdesign.cc/6-storytelling-principles-to-improve-your-ux-737f0fc34261)
   * [Media design method](https://www.journals.uio.no/index.php/TJMI/article/view/702)
   * [UX Books: the essential reading list](https://uxdesign.cc/ux-books-on-user-research-strategy-2c8eeef820a8)
+
+## Immersive media
+
+By the end of this week you should be able to outline the generic qualities of immersive storytelling, and issues involved with forms such as VR, AR and 360 video.
+
+* Workshop & reading: see Moodle
+* Task: Review and revised production of multiplatform data story
+
 
 ## Final Assessment
 
