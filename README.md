@@ -6,15 +6,13 @@ Most resources for the module can be found in the [Narrative Moodle website](htt
 
 ## Module Synopsis
 
-Narrative: from media to interactive media aims to facilitate a flexible and adaptable skillset that provides a basis for you to critically adapt to both new and existing storytelling technologies. 
+Narrative: from media to interactive media aims to give you the skills to critically adapt to both new and existing storytelling formats and platforms. 
 
-Structurally the module begins by building applied understanding of narrative structures across a range of media based on a combination of case studies and individual exploration, before supporting you in developing and executing planning around narrative projects. Both stages are closely aligned to the core assignment tasks. The first stage of the module provides a platform for you to identify and critically evaluate narrative techniques used within relevant media, with a balance to reflect your own study focus, while the second stage support you in initiating and developing techniques to produce a media artefact (whether innovative, conventional or emerging narrative) within an identified professional context. These techniques include core media production skills required for developing the basis for a masters level dissertation/ practical project. Normative assessment of work at the end of the first stage is used to inform increased emphasis on production in stage 2. 
-
-A mixed methods and team teaching pedagogical approach is adopted, with lectures by experts combined with hands-on workshops where you are asked to critically evaluate their own work and the work of others. Supplementary technical sessions may be required to provide specialist skills with particular media to a required professional standard. The critical evaluation of early work is then synthesised with narrative planning culminating in a project that demonstrates the application of editorial, creative and practical skills across multiple media contexts. This links to the different core semester two modules and Work Placement module. 
+We begin by introducing basic narrative concepts that can be used to get to grips with any format you might need, or want, to work in. Then we look at specific formats, from writing for the web, and online and social video, to visualisation and interactivity. By the end of the module you should be able to identify how to approach a specific story across different platforms - and you'll be telling one story in three different formats. 
 
 * Module Leader: Paul Bradshaw (paul.bradshaw@bcu.ac.uk) 0121 331 5367
 * [Twitter.com/paulbradshaw](http://Twitter.com/paulbradshaw)
-* Room: P105
+* Room: MP364
 
 ## Learning outcomes
 
