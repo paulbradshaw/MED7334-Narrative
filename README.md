@@ -2,7 +2,7 @@
 
 This repo contains resources for students on the [MA Data Journalism](http://www.bcu.ac.uk/media/courses/data-journalism) at Birmingham City University. The course module in Narrative covers a range of techniques for telling data stories across text, video and audio, visual and interactive forms, and web, chat and social platforms.
 
-Most resources for the module can be found in the [Narrative Moodle website](http://moodle.bcu.ac.uk/course/view.php?id=14318). This repo contains extra resources and activities specific to data journalism.
+Most resources for the module can be found in the [Narrative Moodle website](https://moodle.bcu.ac.uk/course/view.php?id=90582). This repo contains extra resources and activities specific to data journalism.
 
 ## Module Synopsis
 
@@ -27,24 +27,36 @@ You will also be expected to feed your own experiences into each class - and you
 
 ## 1: Telling stories - and the problems with them
 
-By the end of this week you should be able to identify narrative elements in potential stories and begin to map out potential stories in areas of interest.
+By the end of this week you should be able to identify the genre of a piece of media content, including stories that you are planning, and use that to improve your own storytelling.
 
+* Lecture: [Narrative concepts](https://www.youtube.com/watch?v=aCpK7dZ3j8c&list=PL-ZV9BlgytWi-DeD85AOoisDcf_ZZKM1_&index=2)
 * Workshop & reading: see Moodle
 * Task: Critical review of news structure in data stories
 
-## 2: Structure
+## 2: Characters, setting and movement
+
+By the end of this week you should be able to identify narrative elements in potential stories and begin to map out potential stories in areas of interest.
+
+* Lecture:  [Elements of narrative for factual storytellers](https://www.youtube.com/watch?v=KnV_5qlkD2Y)
+* Workshop & reading: see Moodle
+* Task: Identify how narrative tools are used in data stories
+
+## 3: Structure
 
 By the end of this week you should be able to describe and execute various techniques for telling stories in shortform media (e.g. social media updates), longform formats, and identify structure in genre forms such as the inverted pyramid.
 
+* Lecture 1: [Writing for the web - BASIC principles](https://www.youtube.com/watch?v=cyMacBnW_LU)
+* Lecture 2: [Narrative structure and how it can help us organise information into stories](https://www.youtube.com/watch?v=UUzAmUIdpwg)
 * Workshop & reading: see Moodle
 * Task: Critical review of structure in shortform (social media) and longform data stories
-* Additional reading: 
+* Additional reading:
+  * Heravi (2022): [Storytelling Structures in Data Journalism: Introducing the Water Tower structure](https://openresearch.surrey.ac.uk/esploro/outputs/conferencePaper/Storytelling-Structures-in-Data-Journalism-Introducing/99679065302346)
   * [Adrian Holovaty (2006): A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
   * [Martin Belam (2009): The tyranny of chronology](http://www.currybet.net/download/pdf/belam_tyranny_of_chronology.pdf)
   * [Structuring visual narratives to feed the curiosity](https://www.gurmanbhatia.com/talk/2021/03/09/stories-structure.html)
  
 
-## 3: Genre
+## 4: Genre: longform and features
 
 By the end of this week you should be able to outline how longer stories and feature formats are structured differently from medium form 'inverted pyramid' stories. You should be able to identify different genres and the rules they adhere to, and write your own stories using those genres.
 
@@ -54,7 +66,7 @@ By the end of this week you should be able to outline how longer stories and fea
 * Task: Write a story in a particular genre 
 * Reading: [Data journalism on radio, audio and podcasts](https://onlinejournalismblog.com/2017/07/06/data-journalism-on-radio-audio-and-podcasts/)
 
-## 4: Visual storytelling and shortform 
+## 5: Visual storytelling and shortform 
 
 By the end of this week you should be able to identify techniques used in social media storytelling, particularly the use of visual devices such as emojis, gifs and memes. You should be able to use some of these visual devices to tell stories across platforms.
 
@@ -64,7 +76,11 @@ By the end of this week you should be able to identify techniques used in social
 * Workshop: [visual storytelling](https://docs.google.com/document/d/e/2PACX-1vRaO1dd9gNeN2WX4gFVhLG9O0mRgUgkxuqtPYDibAmLMVb_7nHPf6he5ciIe_3mOekTQKn-K4KvAA8r/pub)
 * Task: Create some visual storytelling and social storytelling about your own work
 
-## 5: Video and social and mobile
+## Week 6: Reading Week
+
+During this week you should be consolidating your learning so far, developing your skills on one or more editorial project, reviewing examples of data-driven storytelling, and continuing to read widely around the subject.
+
+## 7: Video and social and mobile
 
 By the end of this week you should be able to identify techniques used in creating 'native' video for social media and the web, including the difference between social and broadcast video,. You should be able to use those techniques to plan and create multimedia on a range of media platforms.
 
@@ -76,7 +92,7 @@ By the end of this week you should be able to identify techniques used in creati
 * Read: [Data journalism in broadcast news and video: 27+ examples to inspire and educate](https://onlinejournalismblog.com/2017/06/26/data-journalism-in-broadcast-news-video/)
 
 
-## 6: Interactivity (ergodic storytelling)
+## 8: Interactivity (ergodic storytelling)
 
 By the end of this week you should be able to explain and engage with considerations when introducing interactivity into a narrative - including the role of hypertext, games, place and interactive and social storytelling - and plan your own interactive story.
 
@@ -89,12 +105,7 @@ By the end of this week you should be able to explain and engage with considerat
   * [An Illusion of Interactivity: The paternalistic side of data journalism](http://www.tandfonline.com/doi/full/10.1080/17512786.2017.1299032)
   * [Interactive Infographics and News Values](http://www.tandfonline.com/doi/full/10.1080/21670811.2013.841368)
 
-
-## Week 7: Reading Week
-
-During this week you should be consolidating your learning so far, developing your skills on one or more editorial project, reviewing examples of data-driven storytelling, and continuing to read widely around the subject.
-
-## 8: Overview, zoom then filter: composing a visual narrative
+## 9: Number stories
 
 By the end of this week you should be able to plan stories involving numbers - whether that is using on-screen graphics, visualisation or maps and other visualisation devices, or case studies, metaphors and analogies.
 
@@ -115,7 +126,7 @@ By the end of this week you should be able to plan stories involving numbers - w
   * [More research](https://pinboard.in/u:paulbradshaw/t:vis+research)
 
 
-## 9: Transmedia and longform
+## 10: Transmedia and longform
 
 By the end of this week you should be able to plan multi-story narratives such as programmes, podcasts, publications and website UX, and explain the considerations and critical issues involved.
 
@@ -130,16 +141,10 @@ You should also be able to identify how 'transmedia' narratives operate across p
   * [Media design method](https://www.journals.uio.no/index.php/TJMI/article/view/702)
   * [UX Books: the essential reading list](https://uxdesign.cc/ux-books-on-user-research-strategy-2c8eeef820a8)
 
-## 10: Immersive media
-
-By the end of this week you should be able to outline the generic qualities of immersive storytelling, and issues involved with forms such as VR, AR and 360 video.
-
-* Workshop & reading: see Moodle
-* Task: Review and revised production of multiplatform data story
 
 ## 11: Final review
 
-By the end of this section you should be able to identify opportunities for curatorial storytelling, such as email newsletter and chat digests, Pinterest boards, linkblogging, listicles, liveblogging and other formats. You should be able to identify the generic qualities of those forms and plan and execute them in your own field..
+By the end of this section you should be able to identify opportunities for curatorial storytelling, such as email newsletters and listicles. You should be able to identify the generic qualities of those forms and plan and execute them in your own field..
 
 * Workshop & reading: see Moodle
 * Task: Review and revised production of multiplatform data story
